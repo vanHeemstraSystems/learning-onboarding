@@ -1,5 +1,7 @@
 # 100 - Step 1: Detail What, Why, and How
 
+- [Template: 90-Day Action Plan Formation_Template.xlsx](../../../templates/)
+
 Step 1 in the “slow down to go fast” five-step process is to detail the first 90 days by communicating openly with your manager about:
 
 - What you plan to do to learn your new role and contribute
